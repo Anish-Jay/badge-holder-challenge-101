@@ -35,7 +35,7 @@ public class MainActivity extends AppCompatActivity {
         recyclerView.setLayoutManager(new LinearLayoutManager(this));
 
         feedList = new ArrayList<>();
-
+        progressDialog = new ProgressDialog(this);
         progressDialog.setMessage("LOADING...");
         progressDialog.show();
         mDatabase = FirebaseDatabase.getInstance().getReference(constants.DATABASE_PATH_UPLOADS);
