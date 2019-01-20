@@ -49,7 +49,7 @@ public class MainActivity extends AppCompatActivity {
                     feedList.add(upload);
                 }
 
-                    adapter = new myadapter(getApplicationContext(),feedList);
+                    adapter = new myadapter(feedList,getApplicationContext());
                     recyclerView.setAdapter(adapter);
 
 
