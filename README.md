@@ -1,6 +1,20 @@
 # badge-holder-challenge-101
 TACT Badge Holder Challenge 101
 
-This app basically fetches the information from the facebook group and presents it in a user-friendly card view. 
-The present status of the app: 
-              It is connected to firebase, it fetches the JSON file and displays it in a card view.
+IDEA:
+    TO CONNECT A FACEBOOK GROUP TO THIS APP, AND SYNCHRONISE ALL THE POSTS INTO ONE PLACE FOR EASY ACCESS.
+
+PRESENT STATUS:
+     CONNECTED TO FIREBASE WITH A TEMPORARY JSON FILE FOR THE DISPLAY AS A CARD VIEW IN THE APP.
+     
+PENDING UPDATES:
+      CONNECTING IT TO FACEBOOK USING THE FACEBOOK API.
+      
+-------------------------------------------------------------------------------------------------------------------------
+
+INSTRUCTIONS:
+
+            * DOWNLOAD THE GITHUB REPOSITORY TO YOUR SYSTEM.
+            * OPEN THE FILE IN ANDROID STUDIO AND RUN IT ON YOUR ANDROID DEVICE OR EMULATOR
+            
+            FYI - DEFAULT STORAGE FOR A GITHUB DESKTOP - C://Documents>Github>(filename)
